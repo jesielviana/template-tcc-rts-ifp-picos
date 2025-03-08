@@ -1,4 +1,4 @@
-# template
+# Template para TCC no formato de Relatório Técnico de Software - IFPI Picos
 
 Template de TCC (Relatório Técnico de Software) atualizado de acordo com [Manual de Normalização de Trabalhos Acadêmicos do IFPI - 2024] (https://www.ifpi.edu.br/area-do-estudante/bibliotecas/manual-de-trabalhos-academicos).
 
